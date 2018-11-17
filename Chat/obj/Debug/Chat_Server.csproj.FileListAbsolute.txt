@@ -1,0 +1,9 @@
+C:\Users\Lucas-PC1\source\repos\Chat\Chat\obj\Debug\Chat.frmServer.resources
+C:\Users\Lucas-PC1\source\repos\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\Lucas-PC1\source\repos\Chat\Chat\obj\Debug\Chat_Server.csproj.GenerateResource.cache
+C:\Users\Lucas-PC1\source\repos\Chat\Chat\obj\Debug\Chat_Server.csproj.CoreCompileInputs.cache
+C:\Users\Lucas-PC1\source\repos\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\Lucas-PC1\source\repos\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\Lucas-PC1\source\repos\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\Lucas-PC1\source\repos\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\Lucas-PC1\source\repos\Chat\Chat\obj\Debug\Chat.pdb
